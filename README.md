@@ -1,1 +1,3 @@
-# Optimalized-Class-by-Using-Markov
+# Optimalized Class By Using Markov Chain
+
+## Steady State Distribution 
